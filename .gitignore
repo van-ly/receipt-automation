@@ -4,6 +4,9 @@ _env
 credentials.json
 token.json
 
+# Audit logs -- contain real receipt data (store names, prices)
+logs/
+
 # Python
 __pycache__/
 *.pyc
